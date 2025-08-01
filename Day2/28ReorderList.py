@@ -65,3 +65,7 @@ reorderList(head)
 # Reordered List (Zigzag Style):
 # 1 -> 5 -> 2 -> 4 -> 3
 
+# Real-World Use:
+# Used in displaying UI cards in zigzag or alternating patterns.
+
+
